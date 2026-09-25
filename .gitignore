@@ -1,0 +1,31 @@
+# Go
+bin/
+*.test
+*.out
+coverage.out
+
+# C/C++ build output
+build/
+cmake-build-*/
+
+# Compiled files
+*.o
+*.a
+*.so
+
+# Local environment
+.env
+.env.*
+
+# Runtime files
+*.pid
+*.sock
+
+# Logs
+*.log
+
+# Editor / OS files
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
